@@ -42,4 +42,4 @@ revert     Revert commit
 
 # Single line
 git commit -m "<type>[scope]: <description>"
-git commit -m "<feat>[language]: <add italiano basic language>
+git commit -m "<feat>[language]: <add italiano basic language>"
