@@ -1,0 +1,6 @@
+{
+  "preferences": {
+    "ask_before_executing_commands": true,
+    "description": "Preguntar siempre antes de ejecutar cualquier comando"
+  }
+}
